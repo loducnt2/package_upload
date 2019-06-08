@@ -1,0 +1,13 @@
+{
+    "name": "duc/upload",
+    "description": "package 123 again",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "duc",
+            "email": "duc@example.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
